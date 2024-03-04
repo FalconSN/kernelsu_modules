@@ -1,0 +1,6 @@
+id=low_ram_enabler
+name=Low RAM Enabler
+author=FalconSN
+version=1
+versionCode=1
+description=Activate ro.config.low_ram prop option

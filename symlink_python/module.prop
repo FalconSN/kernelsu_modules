@@ -1,6 +1,0 @@
-id=symlink_python
-name=Symlink Python
-author=FalconSN
-version=1
-versionCode=1
-description=Create sysmlink for Python and Bash in root bin
